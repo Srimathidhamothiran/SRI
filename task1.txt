@@ -5,3 +5,5 @@ Save the document by pressing Ctrl + S
 
 <p>Save the document by pressing <kbd>Ctrl + S</kbd></p>
 Result:
+
+Save the document by pressing Ctrl + S
